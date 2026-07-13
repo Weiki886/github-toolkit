@@ -7,6 +7,7 @@
 | 工具 | 说明 |
 |------|------|
 | [issue-downloader](./issue-downloader) | 下载 GitHub Issue 到本地 Markdown 文件，支持 GUI 和 CLI |
+| [md-downloader](./md-downloader) | 下载 GitHub 仓库中的 Markdown 文档到本地，支持 Wiki 页面 |
 
 ## 使用
 
