@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+issue-downloader/config.json
+issue-downloader/issue-downloader
+issue-downloader/issues/
+md-downloader/md-downloader
