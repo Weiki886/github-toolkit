@@ -1,0 +1,5 @@
+{
+  "repo_url": "https://github.com/owner/repo",
+  "token": "ghp_xxxxxxxxxxxx",
+  "out_dir": "./issues"
+}
